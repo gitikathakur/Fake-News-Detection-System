@@ -25,7 +25,7 @@ Before running this project, ensure that you have the following:
 2. **Install the Required Libraries:**
    After cloning the repository, install the dependencies using the command below:
    ```bash
-   !pip install -r FakeNewsDetection/requirements.txt
+   !pip install -r Fake-News-Detection-System/requirements.txt
 3. **Mount Google Drive**
    ```bash
    from google.colab import drive
